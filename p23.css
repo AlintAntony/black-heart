@@ -1,0 +1,11 @@
+div.first{
+background-image:url("/home/section1/Downloads/Zeus_-_Ascension.jpg");
+width:600px;
+padding:25px;
+margin:25px;
+}
+div.second{
+background-color:white;
+padding:25px;
+opacity:0.2;
+}
